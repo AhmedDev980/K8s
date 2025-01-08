@@ -1,5 +1,5 @@
-Docket: Container platform
-K8s: Container orchistration platform
+-Docker: Container platform
+-K8s: Container orchistration platform
 
 Drawbacks for Docker
 - Single Host ( In k8s it is a cluster so it will have many nodes. So we can over come this single host problem )
